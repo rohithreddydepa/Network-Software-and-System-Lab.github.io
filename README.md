@@ -80,36 +80,3 @@
 <h2>Team-made Tools/Software/Platform: </h2>
 <p>Data  Flow  Based  Testing  Toolkit, Deep Learning Based High Performance Intelligent Monitoring System (including Abandoned Object Detection and Water Level Detection Sub-systems), High Risk Patient Behavior Data Analysis and HIPPA-based Secure Mobile App and Back-end Management System, Blockchain Based Global Market Trading Platform.  </p>
 
-<!-- Footer section  -->
-<footer id="footer-wrap">
-	<div id="footer-content">
-		<div id="address">
-			&copy;2021 The University of Houston. All rights reserved.<br />
-			4800 Calhoun Road, Houston, Texas 77204 (713) 743-2255</div>
-		<ul id="policy-navigation">
-			<li class="first">
-				<a href="http://www.uh.edu/" target="_blank">UH Home</a></li>
-			<li>
-				<a href="http://www.egr.uh.edu/" target="_blank">EGR Home</a></li>
-			<li>
-				<a href="http://www.uh.edu/search/directory/" target="_blank">Directory</a></li>
-			<li>
-				<a href="http://www.uh.edu/visit/index" target="_blank">Visit</a></li>
-		</ul>
-        <ul>
-			<li class="first">
-				<a href="http://www.uhsystem.edu/" target="_blank">UH System</a></li>
-			<li>
-				<a href="http://www.texas.gov" target="_blank">State of Texas</a></li>
-			<li>
-				<a href="http://www.uh.edu/policies/" target="_blank">Policies</a></li>
-			<li>
-				<a href="http://www.uh.edu/emergency/" target="_blank">Emergency</a></li>
-			<li>
-				<a href="http://www.uh.edu/equal-opportunity/titleIX-sexual-misconduct/" target="_blank" title="Title IX — Sexual Misconduct">Title IX &mdash; Sexual Misconduct</a></li>
-			<li>
-				<a href="http://www.uhsystem.edu/privacy-notice/" target="_blank" title="UHS Privacy Notice">UHS Privacy Notice</a></li>
-		</ul>
-	</div>
-    <p>&nbsp;</p>
-</footer>
