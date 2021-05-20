@@ -79,5 +79,4 @@
 <p>Windows 8, Windows 10, UNIX, C++ Integrated Development Tools, Java Development Tools, Integrated Development Tools Borland JBuilder 3.0.</p>
 <h2>Team-made Tools/Software/Platform: </h2>
 <p>Data  Flow  Based  Testing  Toolkit, Deep Learning Based High Performance Intelligent Monitoring System (including Abandoned Object Detection and Water Level Detection Sub-systems), High Risk Patient Behavior Data Analysis and HIPPA-based Secure Mobile App and Back-end Management System, Blockchain Based Global Market Trading Platform.  </p>
-</body>
-</html>
+
