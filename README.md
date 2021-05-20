@@ -1,6 +1,10 @@
 <html>
 <head>
 <style>
+th, td {
+  padding: 15px;
+  text-align: left;
+}
 #t01 {
   width: 100%;    
 }
