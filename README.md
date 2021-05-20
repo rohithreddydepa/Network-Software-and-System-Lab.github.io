@@ -1,7 +1,20 @@
 <html>
+<head>
+<style>
+#t01 {
+  width: 100%;    
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+</style>
+</head>
 <body>
 <p>The laboratory is currently located at the Room 228D of Technology Building 2. Beyond the research, the lab also serves as an education center for training future network, software, and system scientists. The lab is equipped with high performance server, network devices and workstations for the tasks of model building, trust management algorithms analysis and simulation, evaluations, and testing, etc.:<p>
-<table style="width:100%">
+<table id="t01">
   <caption>Table 1. Core Hardware and Software in the Network, Software and System Laboratory</caption>
   <tr>
     <th>Description</th>
@@ -80,3 +93,5 @@
 <h2>Team-made Tools/Software/Platform: </h2>
 <p>Data  Flow  Based  Testing  Toolkit, Deep Learning Based High Performance Intelligent Monitoring System (including Abandoned Object Detection and Water Level Detection Sub-systems), High Risk Patient Behavior Data Analysis and HIPPA-based Secure Mobile App and Back-end Management System, Blockchain Based Global Market Trading Platform.  </p>
 
+</body>
+</html>
