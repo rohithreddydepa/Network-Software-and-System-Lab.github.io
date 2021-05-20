@@ -1,2 +1,4 @@
 theme: jekyll-theme-architect
 title: Network,Software and System Lab
+github:
+  is_project_page: false
