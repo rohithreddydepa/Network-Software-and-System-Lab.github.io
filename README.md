@@ -1,5 +1,6 @@
 <html>
 <head>
+ <button name="button" onclick="http://www.google.com">Click me</button>
 <style>
 th, td {
   padding: 15px;
