@@ -1,5 +1,5 @@
 ---
-title: First Page ,sec
+title: First Page
 layout: template
 filename: index.md
 --- 
