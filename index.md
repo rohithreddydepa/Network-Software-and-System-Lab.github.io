@@ -1,6 +1,6 @@
 <html>
 <head>
- <button name="button" onclick="https://github.com/Network-Software-and-System-Lab/Network-Software-and-System-Lab.github.io/edit/main/README.md">Click me</button>
+ <button name="Equipment" onclick="equipment.md">Click me</button>
 <style>
 th, td {
   padding: 15px;
