@@ -1,4 +1,5 @@
-[Click me](about.md){: .btn}
+<span class="fs-8">
+[Click me](about.md){: .btn .btn-blue }
 <html>
 <head>
  <button name="button" onclick="https://github.com/Network-Software-and-System-Lab/HomePage">Equipment</button>
