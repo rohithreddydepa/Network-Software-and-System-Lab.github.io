@@ -1,5 +1,8 @@
 <span class="fs-8">
 [Click me](about.md){: .btn .btn--info }
+<button name="button" onclick="http://www.google.com">Click me</button>
+{% include button.html url="http://www.google.com" %}
+[button url="http://www.google.com"]
 <html>
 <head>
 <style>
