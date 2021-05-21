@@ -20,6 +20,7 @@ th, td {
 <body>
 <button name="button" onclick="https://github.com/Network-Software-and-System-Lab/HomePage">Equipment</button>
 <button name="button" onclick="/about.md">Equipment</button>
+ [Click me](/about.md){: .btn}
 <p>The Network, Software and System Laboratory is currently located at the Room 228D of Technology Building 2 at the University of Houston. Beyond the research, the lab also serves as an education center for training future network, software, and system scientists. The lab is equipped with high performance server, network devices and workstations for the tasks of model building, trust management algorithms analysis and simulation, evaluations, and testing, etc.:<p>
 <p><img src="/Dell-Optiplex 9020.jpg" alt="" /></p>
 <table id="t01">
