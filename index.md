@@ -1,5 +1,6 @@
 <span class="fs-8">
 [Click me](about.md){: .btn .btn-blue }
+[Click me](about.md){: .btn .btn--info }
 <html>
 <head>
 <style>
