@@ -1,5 +1,5 @@
 <span class="fs-8">
-[Click me](about.md){: .btn .btn--info }
+[Click me](#about.md){: .btn .btn--info }
 <html>
 <head>
 <style>
