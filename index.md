@@ -17,6 +17,20 @@ th, td {
 }
 </style>
 </head>
+ <!-- UH Logo header section  -->
+<div id="header-wrap">
+	<div id="header-content">
+    <a href="http://www.uh.edu" target="_blank"><img alt="University of Houston" class="uh-logo" src="https://modal.ece.uh.edu/wp-content/themes/engineering/images/uh-engineering-logo-white.png" /></a>
+    <nav id="header-links">
+        <ul>
+            <li><a target="_blank" href="http://www.uh.edu">UH Home</a></li>
+            <li><a target="_blank" href="http://www.uh.edu/search/directory/">Directory</a></li>
+            <li class="last"><a target="_blank" href="http://www.uh.edu/visit/index">Visit</a></li>
+        </ul>
+    </nav>
+    </div>
+</div>
+<!-- End UH Logo header section  -->
 <body>
 <button name="button" onclick="https://github.com/Network-Software-and-System-Lab/HomePage">Equipment</button>
 <button name="button" onclick="/about.md">Equipment</button>
