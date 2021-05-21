@@ -1,6 +1,6 @@
 <html>
 <head>
- <button name="Equipment" onclick="https://github.com/Network-Software-and-System-Lab/HomePage">Equipment</button>
+ <button name="button" onclick="https://github.com/Network-Software-and-System-Lab/HomePage">Equipment</button>
 <style>
 th, td {
   padding: 15px;
