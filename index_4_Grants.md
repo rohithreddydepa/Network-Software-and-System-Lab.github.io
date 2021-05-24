@@ -6,7 +6,7 @@ filename: index_4_Grants
 
 # Grants & Contracts 
 
-## Research Grants and Contracts (External grants had been highlighted.)
+## Research Grants and Contracts 
 
 1.	Acquisition of an Advanced Traffic Management Systems for Cyber and Physical Security Research, UH High Priority Area Research Equipment Award, $48,600.00, April 2020 - Oct 2021. (PI, 100% Credit)
 2.	Development and Enhancement of In Service Performance Evaluation (ISPE) Process for Roadside Safety Devices, Texas Department of Transportation flow thru from Federal Highway Administration, $249,695.00, July 2019 - July 2021. (UH side PI, $142,296.00, 100% Credit, TSU side PI: Dr. Fengxiang Qiao)
