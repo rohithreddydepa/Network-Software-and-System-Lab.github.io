@@ -6,7 +6,7 @@ filename: index_3_Research_Activities
 
 # Scholarship and Creative Work
 
-List of work: refereed journal articles, refereed conference proceedings, arXiv articles, presentations and invited talks, generation of intellectual property, books, and book chapters.
+List of work: refereed journal articles, refereed conference proceedings, arXiv articles, generation of intellectual property, books, and book chapters.
 Work marked with an asterisk sign are conducted prior to joining the UH.
 
 # Peer Reviewed Journal Articles (31 total, 11 at UH)
