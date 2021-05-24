@@ -7,7 +7,7 @@ filename: index_2_Students
 <img src="Photos/DrZhang.jpg" width="200" heiht="20">
 
 ## Dr. Yunpeng Zhang
-### Assistant Professor of Information System Security , College of Technolgy , Department of Information and Logistics Technology
+#### Assistant Professor of Information System Security , College of Technolgy , Department of Information and Logistics Technology
 
 # Doctoral Advisory Committee
 
