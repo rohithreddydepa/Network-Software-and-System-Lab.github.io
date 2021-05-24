@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Seminars and Talks
 layout: default
 filename: index_6_Seminars
 --- 
