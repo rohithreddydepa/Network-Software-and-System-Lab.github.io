@@ -4,6 +4,11 @@ layout: default
 filename: index_2_Students
 --- 
 
+<img src="Photos/DrZhang.jpg" width="200" heiht="20">
+# Dr. Yunpeng Zhang
+## Assistant Professor of Information System Security
+### College of Technolgy , Department of Information and Logistics Technology
+
 # Doctoral Advisory Committee
 
 1.	Thanh Hung Duong, advisor: Miao Pan, Department of Electrical and Computer Engineering, UH, 2020, 2021.
