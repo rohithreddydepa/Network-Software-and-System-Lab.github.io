@@ -7,19 +7,19 @@ filename: index_2_Students
 <img src="Photos/DrZhang.jpg" width="200" heiht="20">
 
 ## Dr. Yunpeng Zhang
-#### Assistant Professor of Information System Security , College of Technolgy , Department of Information and Logistics Technology
+#### Assistant Professor of Computer Information Systems and Cybersecurity, Department of Information and Logistics Technology, College of Technolgy
 
 # Doctoral Advisory Committee
 
 1.	Thanh Hung Duong, advisor: Miao Pan, Department of Electrical and Computer Engineering, UH, 2020, 2021.
 2.	Anukriti Mishra, advisor: Albert Cheng, Department of Computer Science, UH, 2019, 2020.
 
-# Advised Ph.D. students
+# Ph.D. students
 
 3.	RA, Khadija khaldi, advisor: Shishir Shah, Summer 2019.
 4.	RA, Ali Memariani, advisor: Ioannis Kakadiaris, Fall 2019.
 
-# Advised Master students
+# Master students
 
 5.	RA, Mohan Reddy, 2021
 6.	RA, Anh Nguyeni, 2021.
