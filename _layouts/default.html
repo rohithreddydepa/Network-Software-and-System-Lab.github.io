@@ -17,13 +17,12 @@
     		</div>
 		<div class="child2">
       			<h2 class="project-tagline">College of Technology, University of Houston</h2>
+      			{% for page in site.pages %}
+        			<a href={{ page.filename }} class="btn">{{ page.title }}</a>
+      			{% endfor %}
     		</div>
 	</div>    
-      <h1 class="project-name">The Network, Software and System Laboratory</h1>
-      <h2 class="project-tagline">College of Technology, University of Houston</h2>
-      {% for page in site.pages %}
-        <a href={{ page.filename }} class="btn">{{ page.title }}</a>
-      {% endfor %}
+
     </section>
 	  
     <section class="main-content">
