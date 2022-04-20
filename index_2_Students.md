@@ -13,15 +13,26 @@ filename: index_2_Students
 
 1.	Thanh Hung Duong, advisor: Miao Pan, Department of Electrical and Computer Engineering, UH, 2020, 2021.
 2.	Anukriti Mishra, advisor: Albert Cheng, Department of Computer Science, UH, 2019, 2020.
+3.	Xin Zhou, advisor: Rakesh M. Verma, Department of Computer Science, UH, 2022.
 
 # Ph.D. students
 
-3.	RA, Khadija khaldi, advisor: Shishir Shah, Summer 2019.
-4.	RA, Ali Memariani, advisor: Ioannis Kakadiaris, Fall 2019.
+1.	RA, Khadija khaldi, advisor: Shishir Shah, Summer 2019.
+2.	RA, Ali Memariani, advisor: Ioannis Kakadiaris, Fall 2019.
+3.	Mahdi Manavi, 2022.
+
+# Master Thesis Advisory Committee
+
+1.	Dhairya Bhatt, advisor: Yunpeng (Jack) Zhang, Department of Information and Logistic Technology, UH, 2022.
+2.	Brian Zabeti, advisor: Chris Bronk, Department of Information and Logistic Technology, UH, 2021, 2022.
 
 # Master students
 
-5.	RA, Mohan Reddy, 2021
+1.	Volunteer, Kanmani Thomas Xavier, 2022.
+2.	Volunteer, Adarsh Chagantipati, 2022.
+3.	Volunteer, Shivam Tiwari, 2022.
+4.	Volunteer, Dhairya Bhatt, 2022.
+5.	RA, Mohan Reddy, 2021,2022.
 6.	RA, Anh Nguyeni, 2021.
 7.	RA, Daniel Egwede, 2021.
 8.	RA, Yash Gandhi, 2021.
@@ -51,6 +62,7 @@ filename: index_2_Students
 32.	Volunteer, Srinivasa Kapthic Ponguru, 2017.
 33.	IA, Sagar Limaye, 2017.
 34.	IA, Dharani Chandran, 2016.
+
 
 # Undergraduate students
 
