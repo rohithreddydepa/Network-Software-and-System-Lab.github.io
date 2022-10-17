@@ -4,6 +4,11 @@ layout: default
 filename: index_3_Research_Activities
 --- 
 
+Please find the latest publications on:
+https://scholar.google.com/citations?hl=en&user=kilrIB0AAAAJ&view_op=list_works
+
+================================================================
+
 # Scholarship and Creative Work
 
 List of work: refereed journal articles, refereed conference proceedings, arXiv articles, generation of intellectual property, books, and book chapters.
