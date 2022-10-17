@@ -5,7 +5,7 @@ filename: index_3_Research_Activities
 --- 
 
 Please find the latest publications on:
-https://scholar.google.com/citations?hl=en&user=kilrIB0AAAAJ&view_op=list_works
+[Google Scholar: Dr.Yunpeng Zhang](https://scholar.google.com/citations?hl=en&user=kilrIB0AAAAJ&view_op=list_works)
 
 ================================================================
 
