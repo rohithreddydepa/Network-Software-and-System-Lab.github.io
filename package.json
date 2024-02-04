@@ -9,6 +9,15 @@
     "test": "ng test",
     "prepare": "husky"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*": "prettier --write"
+  }
+  ,
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.1.0",
