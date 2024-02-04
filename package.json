@@ -16,8 +16,7 @@
   },
   "lint-staged": {
     "*": "prettier --write"
-  }
-  ,
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.1.0",
