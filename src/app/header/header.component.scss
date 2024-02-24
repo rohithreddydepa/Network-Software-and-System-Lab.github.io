@@ -1,3 +1,7 @@
-.test {
-  color: #c7102e;
+@import "../../variables.scss";
+a:hover {
+  color: $primary;
+}
+.active {
+  color: $primary;
 }
