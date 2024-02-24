@@ -14,6 +14,7 @@ import { GrantsComponent } from "./grants/grants.component";
 import { TeachingComponent } from "./teaching/teaching.component";
 import { SeminarsComponent } from "./seminars/seminars.component";
 import { DataComponent } from "./team/data/data.component";
+import { CommonModule } from "@angular/common";
 
 @NgModule({
   declarations: [
@@ -28,7 +29,13 @@ import { DataComponent } from "./team/data/data.component";
     SeminarsComponent,
     DataComponent,
   ],
-  imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    FormsModule,
+    HttpClientModule,
+    CommonModule,
+  ],
   providers: [],
   bootstrap: [AppComponent],
 })

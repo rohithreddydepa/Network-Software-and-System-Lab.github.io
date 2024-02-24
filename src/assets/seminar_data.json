@@ -1,0 +1,96 @@
+{
+  "Invited_Talks_and_Seminars": [
+    {
+      "Title": "Research on Core Blockchain Technology in Real Estate Economy",
+      "Host": "Tianjin University, Tianjin, China",
+      "Date": "August 2019"
+    },
+    {
+      "Title": "Innovations of Smart & Connected Systems - New ways to conduct business in a digital tech environment",
+      "Host": "Americas Breakbulk, Houston, U.S.A.",
+      "Date": "October 2018"
+    },
+    {
+      "Title": "DNA Cryptography and a Nanostructure Based Algorithm",
+      "Host": "Oak Ridge National Lab, Oak Ridge, U.S.A.",
+      "Date": "July 2018"
+    },
+    {
+      "Title": "Decentralized, Blockchain Based Access Control Framework for the Heterogeneous Internet of Things",
+      "Host": "Department of Industrial Engineering, University of Houston, Houston, U.S.A.",
+      "Date": "March 2018"
+    },
+    {
+      "Title": "Developing Trust Management System and Trust Data Analysis in a Cloud-Based Supply Chain",
+      "Host": "Technology Collaboration Center, Rice University, Houston, U.S.A.",
+      "Date": "October 2017"
+    },
+    {
+      "Title": "State of Art of Traffic Signal Systems Cybersecurity and a Solution",
+      "Host": "Beijing Jiaotong University, Beijing, China",
+      "Date": "June 2017"
+    },
+    {
+      "Title": "The Future of National Security - Maritime cybersecurity",
+      "Host": "Texas Southern University (TSU), Houston, U.S.A.",
+      "Date": "April 2017"
+    },
+    {
+      "Title": "A Novel System for Maritime Cybersecurity",
+      "Host": "Breakbulk Americas Education Day, Breakbulk Americas, Houston, U.S.A.",
+      "Date": "September 2016"
+    },
+    {
+      "Title": "What’s Cybersecurity? Cyber Security Club",
+      "Host": "University of Houston, Houston, U.S.A.",
+      "Date": "September 2016"
+    },
+    {
+      "Title": "Background and Future Research Related to Drone Technologies",
+      "Host": "Lone Star UAS Center of Excellence & Innovation, Texas A&M University at Corpus Christi, Corpus Christi, U.S.A.",
+      "Date": "July 2016"
+    },
+    {
+      "Title": "Cybersecurity Ramble, Cyber Security Club",
+      "Host": "University of Houston, Houston, U.S.A.",
+      "Date": "March 2016"
+    },
+    {
+      "Title": "Fault-Based Testing of Combining Algorithms in Access Control Language Policies",
+      "Host": "Department of Computer Science, University of Houston, Houston, U.S.A.",
+      "Date": "November 2015"
+    },
+    {
+      "Title": "Detecting Misuses of Combining Algorithms in XACML 3.0 Policies",
+      "Host": "Department of Electrical & Computer Engineering, University of Houston, Houston, U.S.A.",
+      "Date": "October 2015"
+    }
+  ],
+  "Group_Seminars_and_Research_Talks": [
+    {
+      "Title": "Open Source Software and Image Processing",
+      "Host": "Imperial College London, London, U.K.",
+      "Date": "March 2012"
+    },
+    {
+      "Title": "Index-Based Symmetric DNA Encryption Algorithm",
+      "Host": "University of Melbourne, Melbourne, Australia",
+      "Date": "June 2011"
+    },
+    {
+      "Title": "A Rapid Cryptographic Algorithm Based on Chaos and Public Key Infrastructures",
+      "Host": "University of Melbourne, Melbourne, Australia",
+      "Date": "May 2011"
+    },
+    {
+      "Title": "Introduction to DNA Cryptography",
+      "Host": "Northwestern Polytechnical University, Xi’an, China",
+      "Date": "November 2010"
+    },
+    {
+      "Title": "Group Seminar, once per two weeks, (on-campus or online meeting)",
+      "Host": "Northwestern Polytechnical University, Xi’an, China",
+      "Date": "September 2006 - December 2012"
+    }
+  ]
+}

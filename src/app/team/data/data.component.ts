@@ -1,6 +1,6 @@
 import { HttpClient } from "@angular/common/http";
 import { Component, Input } from "@angular/core";
-import { HardwareItem, RolesData } from "../../interfaces";
+import { RolesData } from "../../interfaces";
 @Component({
   selector: "app-data",
   templateUrl: "./data.component.html",
@@ -15,7 +15,6 @@ export class DataComponent {
     masterStudents: [],
     undergraduateStudents: [],
   };
-
   constructor(private http: HttpClient) {}
   ngOnInit() {
     this.loadHardwareItems();

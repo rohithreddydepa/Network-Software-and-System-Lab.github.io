@@ -1,35 +1,40 @@
-// src/app/interfaces.ts
-
 export interface HardwareItem {
   item: string;
   quantity: number;
 }
-interface DoctoralAdvisoryCommitteeRole {
+
+export interface Talk {
+  Title: string;
+  Host: string;
+  Date: string;
+}
+
+export interface Seminars {
+  Invited_Talks_and_Seminars: Talk[];
+  Group_Seminars_and_Research_Talks: Talk[];
+}
+
+interface BaseCommitteeRole {
   studentName: string;
   advisor: string;
   department: string;
   university: string;
   years: number[];
 }
-
-interface student {
+export interface Student {
   name: string;
   role: string;
   years: number[];
 }
-
-interface MasterThesisAdvisoryCommittee {
-  studentName: string;
-  advisor: string;
-  department: string;
-  university: string;
-  years: number[];
-}
-
 export interface RolesData {
-  doctoralAdvisoryCommitteeRoles: DoctoralAdvisoryCommitteeRole[];
-  phdStudents: student[];
-  masterThesisAdvisoryCommittee: MasterThesisAdvisoryCommittee[];
-  masterStudents: student[];
-  undergraduateStudents: student[];
+  doctoralAdvisoryCommitteeRoles: BaseCommitteeRole[];
+  phdStudents: Student[];
+  masterThesisAdvisoryCommittee: BaseCommitteeRole[];
+  masterStudents: Student[];
+  undergraduateStudents: Student[];
+}
+export interface Image {
+  src: string;
+  label: string;
+  text: string;
 }

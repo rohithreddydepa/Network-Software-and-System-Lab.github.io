@@ -78,7 +78,7 @@
     },
     {
       "name": "Darshan Lakhankiya",
-      "role": "IA",
+      "role": "Instructional Assitant",
       "years": [2022]
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "name": "Anouska Shrestha",
-      "role": "IA",
+      "role": "Instructional Assitant",
       "years": [2021]
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "Rashmi S Rao",
-      "roles": ["Research Assitant", "Volunteer"],
+      "roles": "Research Assitant",
       "years": [2018]
     },
     {
@@ -208,12 +208,12 @@
     },
     {
       "name": "Hari Prasad Jella",
-      "role": "IA",
+      "role": "Instructional Assitant",
       "years": [2018]
     },
     {
       "name": "Jules Berlin Nde Kengne",
-      "role": "IA",
+      "role": "Instructional Assitant",
       "years": [2018]
     },
     {
@@ -233,7 +233,7 @@
     },
     {
       "name": "Sarah S. Alexander",
-      "roles": ["Research Assitant", "Volunteer"],
+      "roles": "Research Assitant",
       "years": [2017, 2018]
     },
     {
@@ -248,12 +248,12 @@
     },
     {
       "name": "Sagar Limaye",
-      "role": "IA",
+      "role": "Instructional Assitant",
       "years": [2017]
     },
     {
       "name": "Dharani Chandran",
-      "role": "IA",
+      "role": "Instructional Assitant",
       "years": [2016]
     }
   ],
