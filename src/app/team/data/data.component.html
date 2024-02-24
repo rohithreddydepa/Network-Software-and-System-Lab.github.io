@@ -1,0 +1,92 @@
+<div class="container mt-4" *ngIf="name === 'Doctoral Advisory Committee'">
+  <div class="row">
+    <div
+      class="col-md-4"
+      *ngFor="let role of data.doctoralAdvisoryCommitteeRoles"
+    >
+      <div class="card mb-4 shadow-sm">
+        <div class="card-header">
+          <h4 class="my-0 fw-normal">{{ role.studentName }}</h4>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Advisor: {{ role.advisor }}</h5>
+          <p class="card-text">Department: {{ role.department }}</p>
+          <p class="card-text">University: {{ role.university }}</p>
+          <p class="card-text">Years: {{ role.years.join(", ") }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container mt-4" *ngIf="name === 'Master Thesis Advisory Committee'">
+  <div class="row">
+    <div
+      class="col-md-4"
+      *ngFor="let role of data.masterThesisAdvisoryCommittee"
+    >
+      <div class="card mb-4 shadow-sm">
+        <div class="card-header">
+          <h4 class="my-0 fw-normal">{{ role.studentName }}</h4>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Advisor: {{ role.advisor }}</h5>
+          <p class="card-text">Department: {{ role.department }}</p>
+          <p class="card-text">University: {{ role.university }}</p>
+          <p class="card-text">Years: {{ role.years.join(", ") }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container mt-4" *ngIf="name === 'Ph.D. students'">
+  <div class="row">
+    <div class="col-md-4" *ngFor="let role of data.phdStudents">
+      <div class="card mb-4 shadow-sm">
+        <div class="card-header">
+          <h4 class="my-0 fw-normal">{{ role.name }}</h4>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Role: {{ role.role }}</h5>
+          <p class="card-text">University: University Of Houston</p>
+          <p class="card-text">Years: {{ role.years.join(", ") }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container mt-4" *ngIf="name === 'Master students'">
+  <div class="row">
+    <div class="col-md-4" *ngFor="let role of data.masterStudents">
+      <div class="card mb-4 shadow-sm">
+        <div class="card-header">
+          <h4 class="my-0 fw-normal">{{ role.name }}</h4>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Role: {{ role.role }}</h5>
+          <p class="card-text">University: University Of Houston</p>
+          <p class="card-text">Years: {{ role.years.join(", ") }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container mt-4" *ngIf="name === 'Undergraduate students'">
+  <div class="row">
+    <div class="col-md-4" *ngFor="let role of data.undergraduateStudents">
+      <div class="card mb-4 shadow-sm">
+        <div class="card-header">
+          <h4 class="my-0 fw-normal">{{ role.name }}</h4>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Role : {{ role.role }}</h5>
+          <p class="card-text">University : University Of Houston</p>
+          <p class="card-text">Years: {{ role.years.join(", ") }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

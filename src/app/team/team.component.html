@@ -1,1 +1,25 @@
-<p>team works!</p>
+<div class="container">
+  <div class="header text-center">
+    <h1>Dr. Yunpeng Zhang</h1>
+    <p>Associate Professor of Computer Information Systems and Cybersecurity</p>
+    <p>
+      Department of Information and Logistics Technology, College of Technology
+    </p>
+  </div>
+  <ul class="nav nav-tabs" id="myTab" role="tablist">
+    <li class="nav-item" *ngFor="let item of Student_level">
+      <a
+        class="nav-link"
+        id="doctoral-tab"
+        data-toggle="tab"
+        role="tab"
+        aria-controls="doctoral"
+        aria-selected="true"
+        (click)="choose(item)"
+        [ngClass]="{ active: item === active_block }"
+        >{{ item }}</a
+      >
+    </li>
+  </ul>
+  <app-data [name]="active_block"></app-data>
+</div>

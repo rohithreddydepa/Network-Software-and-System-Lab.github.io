@@ -13,6 +13,7 @@ import { PublicationsComponent } from "./publications/publications.component";
 import { GrantsComponent } from "./grants/grants.component";
 import { TeachingComponent } from "./teaching/teaching.component";
 import { SeminarsComponent } from "./seminars/seminars.component";
+import { DataComponent } from "./team/data/data.component";
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { SeminarsComponent } from "./seminars/seminars.component";
     GrantsComponent,
     TeachingComponent,
     SeminarsComponent,
+    DataComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [],

@@ -1,0 +1,272 @@
+{
+  "doctoralAdvisoryCommitteeRoles": [
+    {
+      "studentName": "Xin Zhou",
+      "advisor": "Rakesh M. Verma",
+      "department": "Computer Science",
+      "university": "University Of Houston",
+      "years": [2023, 2022]
+    },
+    {
+      "studentName": "Zechun Cao",
+      "advisor": "Stephen S.-H. Huang",
+      "department": "Computer Science",
+      "university": "University Of Houston",
+      "years": [2020, 2019, 2018]
+    },
+    {
+      "studentName": "Mohammad Najarian",
+      "advisor": "Gino Lim",
+      "department": "Industrial Engineering",
+      "university": "University Of Houston",
+      "years": [2020, 2019, 2018]
+    }
+  ],
+  "phdStudents": [
+    {
+      "name": "Khadija Khaldi",
+      "role": "Research Assitant",
+      "years": [2019]
+    },
+    {
+      "name": "Ali Memariani",
+      "role": "Research Assitant",
+      "years": [2019]
+    },
+    {
+      "name": "Anukriti Mishra",
+      "role": "Research Assitant",
+      "years": [2019, 2020]
+    },
+    {
+      "name": "Thanh Hung Duong",
+      "role": "Research Assitant",
+      "years": [2020, 2021]
+    },
+    {
+      "name": "Yu Shi",
+      "role": "Volunteer",
+      "years": [2020, 2021]
+    },
+    {
+      "name": "Mahdi Manavi",
+      "role": "Research Assitant",
+      "years": [2022, 2023]
+    }
+  ],
+  "masterThesisAdvisoryCommittee": [
+    {
+      "studentName": "Dhairya Bhatt",
+      "advisor": "Yunpeng (Jack) Zhang",
+      "department": "Information and Logistic Technology",
+      "university": "University Of Houston",
+      "years": [2022]
+    },
+    {
+      "studentName": "Brian Zabeti",
+      "advisor": "Chris Bronk",
+      "department": "Information and Logistic Technology",
+      "university": "University Of Houston",
+      "years": [2021, 2022]
+    }
+  ],
+  "masterStudents": [
+    {
+      "name": "Kanmani Thomas Xavier",
+      "role": "Research Assitant",
+      "years": [2022]
+    },
+    {
+      "name": "Darshan Lakhankiya",
+      "role": "IA",
+      "years": [2022]
+    },
+    {
+      "name": "Adarsh Chagantipati",
+      "role": "Volunteer",
+      "years": [2022]
+    },
+    {
+      "name": "Shivam Tiwari",
+      "role": "Research Assitant",
+      "years": [2022]
+    },
+    {
+      "name": "Dhairya Bhatt",
+      "role": "Volunteer",
+      "years": [2022]
+    },
+    {
+      "name": "Purva Desai",
+      "role": "Volunteer",
+      "years": [2022]
+    },
+    {
+      "name": "Atluri, Sairam",
+      "role": "Volunteer",
+      "years": [2022]
+    },
+    {
+      "name": "Mohan Reddy",
+      "role": "Research Assitant",
+      "years": [2021, 2022]
+    },
+    {
+      "name": "Anh Nguyeni",
+      "role": "Research Assitant",
+      "years": [2021]
+    },
+    {
+      "name": "Daniel Egwede",
+      "role": "Research Assitant",
+      "years": [2021]
+    },
+    {
+      "name": "Yash Gandhi",
+      "role": "Research Assitant",
+      "years": [2021]
+    },
+    {
+      "name": "Anouska Shrestha",
+      "role": "IA",
+      "years": [2021]
+    },
+    {
+      "name": "David Utomi",
+      "role": "Research Assitant",
+      "years": [2020, 2021]
+    },
+    {
+      "name": "Luciano R. Branco",
+      "role": "Research Assitant",
+      "years": [2020, 2021]
+    },
+    {
+      "name": "Farzanuddin Hisam Ahmad",
+      "role": "Research Assitant",
+      "years": [2020, 2021]
+    },
+    {
+      "name": "Nirupam Bidikar",
+      "role": "Research Assitant",
+      "years": [2020, 2021]
+    },
+    {
+      "name": "Sri Harsha",
+      "role": "Research Assitant",
+      "years": [2020]
+    },
+    {
+      "name": "Revanth Sri Tripuraneni",
+      "role": "Research Assitant",
+      "years": [2020]
+    },
+    {
+      "name": "Leticia de Castro Leandro",
+      "role": "Research Assitant",
+      "years": [2019]
+    },
+    {
+      "name": "Glenn Turner",
+      "role": "Research Assitant",
+      "years": [2019]
+    },
+    {
+      "name": "Tian Yuan",
+      "role": "Research Assitant",
+      "years": [2019, 2020]
+    },
+    {
+      "name": "Hung Duong",
+      "role": "Research Assitant",
+      "years": [2020]
+    },
+    {
+      "name": "Bidit Das",
+      "role": "Research Assitant",
+      "years": [2019, 2020]
+    },
+    {
+      "name": "Anish Patel",
+      "role": "Research Assitant",
+      "years": [2019]
+    },
+    {
+      "name": "Eljose Sajan",
+      "role": "Research Assitant",
+      "years": [2019]
+    },
+    {
+      "name": "Rashmi S Rao",
+      "roles": ["Research Assitant", "Volunteer"],
+      "years": [2018]
+    },
+    {
+      "name": "Abheeshta Reddy Jakka",
+      "role": "Volunteer",
+      "years": [2018]
+    },
+    {
+      "name": "Hari Prasad Jella",
+      "role": "IA",
+      "years": [2018]
+    },
+    {
+      "name": "Jules Berlin Nde Kengne",
+      "role": "IA",
+      "years": [2018]
+    },
+    {
+      "name": "Chethana Dukkipati",
+      "role": "Research Assitant",
+      "years": [2017, 2018, 2019]
+    },
+    {
+      "name": "Jincheng Lai",
+      "role": "Research Assitant",
+      "years": [2017, 2018]
+    },
+    {
+      "name": "Lun Sun",
+      "role": "Research Assitant",
+      "years": [2017, 2018]
+    },
+    {
+      "name": "Sarah S. Alexander",
+      "roles": ["Research Assitant", "Volunteer"],
+      "years": [2017, 2018]
+    },
+    {
+      "name": "Xiaobo Li",
+      "role": "Research Assitant",
+      "years": [2017]
+    },
+    {
+      "name": "Srinivasa Kapthic Ponguru",
+      "role": "Volunteer",
+      "years": [2017]
+    },
+    {
+      "name": "Sagar Limaye",
+      "role": "IA",
+      "years": [2017]
+    },
+    {
+      "name": "Dharani Chandran",
+      "role": "IA",
+      "years": [2016]
+    }
+  ],
+  "undergraduateStudents": [
+    {
+      "name": "Zach Haven",
+      "role": "Volunteer",
+      "years": [2018]
+    },
+    {
+      "name": "Feng Guo",
+      "role": "Research Assitant",
+      "years": [2016]
+    }
+  ]
+}
