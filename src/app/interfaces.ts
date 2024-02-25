@@ -3,15 +3,11 @@ export interface HardwareItem {
   quantity: number;
 }
 
-export interface Talk {
+export interface Seminars {
   Title: string;
   Host: string;
   Date: string;
-}
-
-export interface Seminars {
-  Invited_Talks_and_Seminars: Talk[];
-  Group_Seminars_and_Research_Talks: Talk[];
+  Talk: string;
 }
 
 interface BaseCommitteeRole {
@@ -32,9 +28,4 @@ export interface RolesData {
   masterThesisAdvisoryCommittee: BaseCommitteeRole[];
   masterStudents: Student[];
   undergraduateStudents: Student[];
-}
-export interface Image {
-  src: string;
-  label: string;
-  text: string;
 }

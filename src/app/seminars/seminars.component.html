@@ -1,1 +1,21 @@
-<p>seminars works!</p>
+<div class="container">
+  <h1 class="text-center">Selected Seminars and Talks</h1>
+  <div class="row row-cols-3">
+    <div class="col mb-3" *ngFor="let item of seminars">
+      <div class="card" style="width: 100%; height: 15rem" data-aos="fade-up">
+        <div class="card-body">
+          <h5 class="card-title">
+            {{ item.Title }}
+          </h5>
+          <h6 class="card-subtitle mb-2 text-body-secondary">
+            {{ item.Date }}
+          </h6>
+          <ul>
+            <li><strong>Host :</strong> {{ item.Host }}</li>
+            <li><strong>Talk :</strong> {{ item.Talk }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

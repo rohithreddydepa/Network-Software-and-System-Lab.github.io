@@ -1,5 +1,4 @@
 import { Component } from "@angular/core";
-import { Image } from "../interfaces";
 
 @Component({
   selector: "app-home",
@@ -7,5 +6,10 @@ import { Image } from "../interfaces";
   styleUrl: "./home.component.scss",
 })
 export class HomeComponent {
-  imageData: Image[] = [];
+  constructor() {}
+  range = this.generateRange(1, 10);
+
+  generateRange(start: number, end: number): number[] {
+    return Array.from({ length: end - start + 1 }, (_, i) => i + start);
+  }
 }
