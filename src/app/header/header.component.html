@@ -21,65 +21,14 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
+        <li class="nav-item" *ngFor="let item of menuItems">
           <a
             class="nav-link"
-            [ngClass]="{ Active: router.url === '/' }"
+            [ngClass]="{ Active: router.url === item.link }"
             aria-current="page"
-            routerLink="/"
-            >Home</a
-          >
-        </li>
-        <li class="nav-item">
-          <a
-            class="nav-link"
-            [ngClass]="{ Active: router.url === '/team' }"
-            routerLink="/team"
-            >Team</a
-          >
-        </li>
-        <li class="nav-item">
-          <a
-            class="nav-link"
-            [ngClass]="{ Active: router.url === '/equipment' }"
-            routerLink="/equipment"
-            >Equipment</a
-          >
-        </li>
-        <li class="nav-item">
-          <a
-            class="nav-link"
-            [ngClass]="{ Active: router.url === '/publications' }"
-            routerLink="/publications"
-            aria-disabled="true"
-            >Research & Publications</a
-          >
-        </li>
-        <li class="nav-item">
-          <a
-            class="nav-link"
-            [ngClass]="{ Active: router.url === '/grants' }"
-            routerLink="/grants"
-            aria-disabled="true"
-            >Grants</a
-          >
-        </li>
-        <li class="nav-item">
-          <a
-            class="nav-link"
-            [ngClass]="{ Active: router.url === '/teaching' }"
-            routerLink="/teaching"
-            aria-disabled="true"
-            >Teaching</a
-          >
-        </li>
-        <li class="nav-item">
-          <a
-            class="nav-link"
-            [ngClass]="{ Active: router.url === '/seminars' }"
-            routerLink="/seminars"
-            aria-disabled="true"
-            >Seminars and talks</a
+            (click)="closeDropdown()"
+            [routerLink]="item.link"
+            >{{ item.name }}</a
           >
         </li>
       </ul>
